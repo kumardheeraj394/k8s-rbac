@@ -18,7 +18,9 @@ rules:
 - apiGroups: [""]
   resources: ["pods"]
   verbs: ["get", "list"]
-🌐 2. ClusterRole
+---
+
+## 🔐 2. ClusterRole
 Scope: Cluster-wide
 
 Purpose:
